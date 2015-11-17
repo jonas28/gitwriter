@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>childOrder</key>
-	<array>
-		<string>ressources</string>
-	</array>
 	<key>createMarkedFile</key>
 	<false/>
 	<key>sheetClusters</key>
@@ -14,6 +10,7 @@
 			<string>commodo.md</string>
 			<string>commodo-pic.md</string>
 			<string>diam.md</string>
+			<string>diam-pic.md</string>
 			<string>Maecenas.md</string>
 			<string>quam.md</string>
 		</array>
